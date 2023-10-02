@@ -1,0 +1,18 @@
+// const gameName = new String("akan-sha")
+// console.log(gameName[1]);
+// console.log(gameName.__proto__);
+// console.log(gameName.length);
+// console.log(gameName.toUpperCase());
+// console.log(gameName.charAt(5));
+// console.log(gameName.indexOf('h'));
+// const newString = gameName.substring(0,5)
+// console.log(newString);
+// const anotherString = gameName.slice(-6,6)
+// console.log(anotherString);
+// const newStr = '    akku   '
+// console.log(newStr);
+// console.log(newStr.trim());
+// const url = "akans@gmail.com%23456"
+// console.log(url.replace("gmail", "yahoo"));
+// console.log(url.includes('akku'))
+// console.log(gameName.split('-'))
